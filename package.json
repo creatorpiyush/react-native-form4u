@@ -36,7 +36,7 @@
     "lint-fix": "eslint --fix ."
   },
   "dependencies": {
-    "prop-types": "^15.7.2",
+    "prop-types": "^15.8.1",
     "react-native-masked-text": "^1.12.5",
     "react-native-i18n": "^2.0.15",
     "react-native-keyboard-aware-scroll-view": "^0.8.0",
